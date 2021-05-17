@@ -10,5 +10,7 @@ package com.mycompany.projetofillipegithub;
  * @author Fillipe
  */
 public class Principal {
-    
+    public static void main(String[] args) {
+        
+    }
 }
