@@ -10,7 +10,9 @@ package com.mycompany.projetofillipegithub;
  * @author Fillipe
  */
 public class Principal {
+     // Método Principal
     public static void main(String[] args) {
-        
+        // Mensagens
+        System.out.println("Olá, Mundo Fillipe!Muito Bom Dia!");
     }
 }
